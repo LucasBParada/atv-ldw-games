@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+pymysql
+cryptography
+pydantic
+flasgger
+python-dotenv
