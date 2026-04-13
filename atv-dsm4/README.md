@@ -118,9 +118,3 @@ DB_HOST=db
 Reset completo
 docker compose down -v
 docker compose up --build
-📚 Objetivo do Projeto
-Desenvolvimento de API REST
-Integração Flask + MySQL
-Arquitetura backend modular
-Containerização com Docker
-Documentação com Swagger
